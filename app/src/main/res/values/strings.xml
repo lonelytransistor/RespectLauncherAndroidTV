@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RespectLauncher</string>
+    <string name="launcher_activity_monitor">Launcher activity monitor</string>
+</resources>
