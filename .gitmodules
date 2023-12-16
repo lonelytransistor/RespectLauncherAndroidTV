@@ -1,0 +1,6 @@
+[submodule "AndroidCommonlib"]
+	path = AndroidCommonlib
+	url = https://github.com/lonelytransistor/AndroidCommonlib
+[submodule "commonlib"]
+	path = commonlib
+	url = https://github.com/lonelytransistor/AndroidCommonlib
