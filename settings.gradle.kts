@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "RespectLauncher"
 include(":app")
+include(":commonlib")

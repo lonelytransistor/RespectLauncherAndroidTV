@@ -54,5 +54,5 @@ dependencies {
     implementation("com.google.android.material:material:1.11.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     implementation("dev.mobile:dadb:1.2.7")
-    implementation(files("../commonlib/app/build/outputs/aar/app-debug.aar"))
+    implementation(project(":commonlib"))
 }
